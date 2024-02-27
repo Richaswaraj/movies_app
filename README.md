@@ -9,4 +9,3 @@ creating a movie review app where users can search for movies, get recommendatio
 recommend movies according to genres, actor, director.
 take feedback from the users 
 provide full information about the movie(imdb ratings, actors worked, director, etc)
-hi my name is richa 
